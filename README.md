@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 I am lost and wandering around to find something that suits me.
 
 - 🔭 I’m currently working on stereo depth estimation.
-- 🌱 I’m very fascinated by the way deep learning affected our lives and would like to explore it in depth.
+- 🌱 I’m very fascinated by the way deep learning has affected our lives and would like to explore the field.
 - 🤔 I'm a strong believer of taking small steps each day to get better at my craft. 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/amitness?label=Follow&style=social)](https://twitter.com/suchith720)
-
-<!--
-[![last learned](https://img.shields.io/github/last-commit/amitness/learning?label=last%20learned&style=flat-square)](https://github.com/amitness/learning) 
--->
+[![last learned](https://img.shields.io/github/last-commit/amitness/learning?label=last%20learned&style=flat-square)](https://github.com/suchith720/resources) 
