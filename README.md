@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am lost and wandering around to find something that suits me.
 
-- 🔭 I’m currently working on stereo depth estimation.
+- 🔭 I’m currently working on Extreme Classification.
 - 🌱 I’m very fascinated by the way deep learning has affected our lives and would like to explore the field.
 - 🤔 I'm a strong believer of taking small steps each day to get better at my craft. 
 
